@@ -11,6 +11,7 @@
     "@chakra-ui/react": "^1.7.2",
     "@emotion/react": "11",
     "@emotion/styled": "11",
+    "axios": "^0.24.0",
     "dexie": "^3.2.0",
     "dexie-react-hooks": "^1.0.7",
     "framer-motion": "4",

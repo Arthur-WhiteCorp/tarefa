@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "src/@types"  ],
+, "src.old/@types"  ],
   "exclude": [
     "node_modules"
   ]
